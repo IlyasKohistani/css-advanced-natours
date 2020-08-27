@@ -1,0 +1,18 @@
+/* default browser font size is 16px and the 62.5% of that is 10px and this will make
+our works easy to set all pixels to rem and by changing the font size everything will change
+and if user try to zoom the browser too it will change font size and then change all of element bigger because of rem */
+html{
+    font-size: 62.5%;
+}
+
+*,
+*::after, 
+*::before {
+    padding: 0;
+    margin: 0;
+    box-sizing: inherit;
+}
+
+body{
+    box-sizing: border-box;
+}
