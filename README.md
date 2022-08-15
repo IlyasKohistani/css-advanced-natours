@@ -25,7 +25,7 @@ Whether you use this project, have learned something from it, or just like it, p
 
 ## Setup
 
-Clone this repo to your desktop and open `npm run compile:sass` to compile all Sass files.
+Clone this repo to your desktop then go to its root directory and run `npm run compile:sass` to compile all SASS files.
 
 ---
 
@@ -39,6 +39,6 @@ Once the everything is completed, you can go to `Sass` folder and change design 
 
 ## License
 
-> You can check out the full license [here](https://github.com/IlyasKohistani/natours/LICENSE)
+> You can check out the full license [here](https://github.com/IlyasKohistani/natours/blob/master/LICENSE)
 
 This project is licensed under the terms of the **MIT** license.
