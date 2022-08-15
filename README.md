@@ -1,6 +1,6 @@
 # NATOURS Advanced CSS
 
-[![GitHub Stars](https://img.shields.io/github/stars/IlyasKohistani/natours.svg)](https://github.com/IlyasKohistani/natours/stargazers) [![GitHub Issues](https://img.shields.io/github/issues/IlyasKohistani/natours.svg)](https://github.com/IlyasKohistani/natours/issues) [![Current Version](https://img.shields.io/badge/version-1.0.0-green.svg)](https://github.com/IlyasKohistani/natours) [![Live Demo](https://img.shields.io/badge/demo-online-green.svg)](https://github.com/IlyasKohistani/natours)
+[![GitHub Stars](https://img.shields.io/github/stars/IlyasKohistani/natours.svg)](https://github.com/IlyasKohistani/natours/stargazers) [![GitHub Issues](https://img.shields.io/github/issues/IlyasKohistani/natours.svg)](https://github.com/IlyasKohistani/natours/issues) [![Current Version](https://img.shields.io/badge/version-1.0.0-green.svg)](https://github.com/IlyasKohistani/natours) [![Live Demo](https://img.shields.io/badge/demo-online-green.svg)](https://ilyaskohistani.github.io/projects/css_advanced/)
 
 A unique Design built with advanced CSS AND SASS. You are 100% allowed to use this webpage for both personal and commercial use, but NOT to claim it as your own design.
 
